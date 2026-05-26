@@ -9,7 +9,7 @@ const Experience = () => {
       location: 'Remote',
       description: 'Learning and development program focused on modern technologies and industry best practices. Working on real-world projects and gaining hands-on experience with enterprise technologies.',
       skills: ['Full Stack Development', 'Cloud Computing', 'Software Engineering', 'Agile Methodology'],
-      logo: '/public/infosys.png'
+      logo: '/infosys.png'
     },
     {
       company: 'Marcello Tech',
@@ -18,7 +18,7 @@ const Experience = () => {
       location: 'Chennai, India',
       description: 'Worked on mobile application development using Flutter and Android. Developed UI components and implemented backend functionality. Collaborated with a team of developers to deliver high-quality applications.',
       skills: ['Flutter', 'Android Studio', 'Mobile UI/UX', 'Firebase', 'API Integration'],
-      logo: '/public/marcho.png'
+      logo: '/marcho.png'
     },
     {
       company: 'IZEON Innovative Pvt Ltd',
@@ -27,7 +27,7 @@ const Experience = () => {
       location: 'Remote',
       description: 'Contributed to the development of web applications using modern JavaScript frameworks. Implemented responsive design patterns and optimized application performance.',
       skills: ['JavaScript', 'HTML/CSS', 'API Integration', 'Web Development', 'Git'],
-      logo: '/public/izeon.jpeg'
+      logo: '/izeon.jpeg'
     },
   ];
 

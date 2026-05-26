@@ -6,25 +6,25 @@ const Certificates = () => {
 
   const certificates = [
     {
-      image: '/public/cer1.jpg',
+      image: '/cer1.jpg',
       title: 'Full Stack Web Development',
       subtitle: 'HDCP Certification',
       details: 'Honours Diploma in Computer Programme (HDCP) with an "A" grade.'
     },
     {
-      image: '/public/cer2.jpg',
+      image: '/cer2.jpg',
       title: 'JavaScript Course',
       subtitle: 'GUVI Certification',
       details: 'Successfully completed the JavaScript course at GUVI.'
     },
     {
-      image: '/public/cer4.jpg',
+      image: '/cer4.jpg',
       title: 'Mobile App Development',
       subtitle: 'Internship Certificate',
       details: 'Completed a two-month internship in Mobile App Development with Flutter & Android at Marcello Tech.'
     },
     {
-      image: '/public/cer3.jpg',
+      image: '/cer3.jpg',
       title: 'Best Paper Award',
       subtitle: 'RACES\'25 Conference',
       details: 'Awarded Best Paper for Threat Detection Algorithm Using TensorFlow at RACEs\' 25.'
